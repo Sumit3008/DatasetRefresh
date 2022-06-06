@@ -1,0 +1,8 @@
+[oss_prod]
+type = s3
+provider = Other
+access_key_id = ...
+secret_access_key = ...
+endpoint = https://idcxvbiyd8fn.compat.objectstorage.us-ashburn-1.oraclecloud.com/
+location_constraint = us-ashburn-1
+acl = private
